@@ -1,0 +1,21 @@
+Document Object:
+        The document object represents a webpage. 
+        By accesing the document object we can only access or adjust elements of html page
+        A document object is a subset of window object.
+        They can be accessed with the help of the syntax window.document or just document.
+        There are a lot of properties of document objects some of them are title, head, body,domain,URL,doctype.
+
+
+
+Window Object:
+        The window object is in the top of the heirarchy in the DOM.
+        It represents a browser window which displays the total content of the webpage.
+        The window is created when in the screen the displays of the content is shown.
+        The syntax is given by window.property_name;
+        The commonly used properties of window are document, length, frames, height, width,parent
+
+
+
+
+    The basic difference between a window and a document is that the document is a part of window tab in the screen, while the window is the whole tab that is shown in the screen
+    
